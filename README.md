@@ -84,7 +84,7 @@ In this repository, you will find:
 ✅ You will find the code, wiring diagram, and prototype media in the project files.
 
 <h2> - 📸 Demo : </h2>
-
+https://github.com/user-attachments/assets/187a1b3c-db38-48ef-a89d-353cee33736f
 
 
 
